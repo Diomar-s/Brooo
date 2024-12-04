@@ -32,21 +32,21 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/b91fd8009901954bdbe4a.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/5218711426787'
+global.creador = 'Wa.me/51978660122'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5218711426787'
-global.namechannel = '❀🔥❀❦ǶꓴƬ𐤠Θ-ꝒⱤΘƳƸƇƬ❧ ❀🦋❀/★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.namechannel2 = ''
-global.namegrupo = '✦͙͙͙*͙*❥⃝∗⁎.ʚ ʰᵘᵗᵃᵒ-ᵖʳᵒʸᵉᶜᵗ ɞ.⁎∗❥⃝**͙✦͙͙͙'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝝡𝝣𝗚𝗨𝗠𝗜𝗡'
-global.namecomu2 = ''
-global.colab1 = ''
-global.colab2 = ''
-global.colab3 = ''
+global.asistencia = 'Wa.me/51978660122'
+global.namechannel = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.namechannel2 = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.namegrupo = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.namecomu = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.namecomu2 = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.colab1 = 'Miguelon'
+global.colab2 = 'Steven'
+global.colab3 = 'Dino'
 
 //Ids channel
-global.idchannel = '120363371018732371@newsletter'
-global.canalIdH = ["120363371018732371@newsletter", "120363370415738881@newsletter", "120363307382381547@newsletter", "120363263466636910@newsletter"]
+global.idchannel = '120363323286489957@newsletter'
+global.canalIdH = ["120363323286489957@newsletter", "120363323286489957@newsletter", "120363323286489957@newsletter", "120363323286489957@newsletter"]
 global.canalNombreH = ["Hutao - Test ❤️‍🔥", "Yaemori - Test 🍄", "Megumin - Channel 💥", "Yaemori - Channel 🍭"]
 global.channelRD = await getRandomChannel()
 
@@ -69,13 +69,13 @@ global.waittt =  'ꨄ︎ 🅱︎🅰︎🅹︎🅰︎🅽︎🅳︎🅾︎ 🆃�
 global.waitttt = 'ꨄ︎ 🅱︎🅰︎🅹︎🅰︎🅽︎🅳︎🅾︎ 🆃︎🆄︎ 🅲︎🅾︎🅽︎🆃︎🅴︎🅽︎🅸︎🅳︎🅾︎\n🄴🅂🄿🄴🅁🄰 🅄🄽 🄼🄾🄼🄴🄽🅃🄾';
 
 //Enlaces
-var grupo = 'https://chat.whatsapp.com/KxHaM2J0NWPDR4RU24OmFw'
-var canal = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820'  
-var canal2 = 'https://whatsapp.com/channel/0029Vawz6Y91SWsyLezeAb0f'
-var git = 'https://github.com/CheirZ/HuTao-proyect.git' 
-var youtube = 'https://youtube.com/@davidchian4957' 
-var github = 'https://github.com/Cheirz/HuTao-Proyect' 
-let correo = 'miguel.doce12000@outlook.com'
+var grupo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+var canal = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'  
+var canal2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+var git = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' 
+var youtube = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' 
+var github = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' 
+let correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
 
 global.redes = [canal, canal2, git, youtube, github, correo].getRandom()
 
@@ -108,15 +108,15 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://telegra.ph/file/600bc25a0a8ffbeb649cd.jpg',
-'https://telegra.ph/file/724ce42202f5e1d01f053.jpg',
-'https://telegra.ph/file/8a3c8e7db5f7a6ec1ebe5.jpg',
-'https://telegra.ph/file/95968d7ba96074969a25e.jpg',
-'https://telegra.ph/file/7bda527706a6fa4f0792e.jpg',
-'https://telegra.ph/file/600bc25a0a8ffbeb649cd.jpg',
+'https://files.catbox.moe/umnkyi.jpg',
+'https://files.catbox.moe/umnkyi.jpg',
+'https://files.catbox.moe/umnkyi.jpg',
+'https://files.catbox.moe/47utty.jpg',
+'https://files.catbox.moe/47utty.jpg',
+'https://files.catbox.moe/47utty.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'ఌ︎ 𝙃𝙪𝙏𝙖𝙤 𝙙𝙞𝙧𝙚𝙘𝙩𝙤𝙧𝙖 𝙣𝙪𝙢77', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'ఌ︎ Brook bot', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
 
